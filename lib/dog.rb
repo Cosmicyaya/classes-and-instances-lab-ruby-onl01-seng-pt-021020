@@ -1,3 +1,5 @@
 class dog
-  frank
+  frank = dog.new
+  dawg = dog.new
+  steve = dog.new
 end
