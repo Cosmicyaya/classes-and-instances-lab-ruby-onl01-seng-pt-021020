@@ -1,3 +1,3 @@
 class dog
-  new_dog
+  frank
 end
