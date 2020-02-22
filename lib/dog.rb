@@ -1,8 +1,8 @@
 class dog
-  frank = dog.new
+  fido = dog.new
   
-  dawg = dog.new
+  snoopy = dog.new
   
-  steve = dog.new
+  lassie = dog.new
   
 end
